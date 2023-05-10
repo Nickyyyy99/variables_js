@@ -11,19 +11,17 @@
 // 4. Realice un acumulador utilizando una variable, debe acumular en 5 lineas
 //    de código el numero 100, comenzando desde el 1.
 
-/* ELIMINE ESTE COMENTARIO
 let acumulador = 1; //No utilizar mas variables ;D
 //primer paso:
-
+acumulador += 2;
 //segundo paso:
-
+acumulador += 3;
 //tercer paso:
-
+acumulador +=4 ;
 //cuarto paso:
-
+acumulador += 90;
 //quinto paso:
 
 //Imprimimos en consola:
 console.log("El resultado del programa es: " + acumulador); 
 // El resultado debe ser 100
-*/
